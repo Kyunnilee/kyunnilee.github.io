@@ -2,10 +2,10 @@
 title: "Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling"
 collection: publications
 category: conferences
-permalink: /publication/2025-reverse-vlm
+permalink: /publication/2025-04-17-reverse-vlm
 date: 2025-04-17
-venue: ICCV 2025
-authors: [
+venue: ICCV
+citation: [
 	Tsung-Han Wu,
     <b>Heekyung Lee</b>,
     Jiaxin Ge,
